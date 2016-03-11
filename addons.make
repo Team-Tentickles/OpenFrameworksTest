@@ -1,0 +1,2 @@
+ofxSimpleHttp
+ofxSocketIO
