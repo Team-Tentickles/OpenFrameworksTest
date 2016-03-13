@@ -19,6 +19,8 @@ void ofApp::setup(){
     http.setCopyBufferSize(16);
     http.setSpeedLimit(1000);
     
+    mainOutputSyphonServer.setName("Screen Output");
+    
     //add download listener
     ofAddListener(http.httpResponse, this, &ofApp::newResponse);
 }
@@ -60,6 +62,8 @@ void ofApp::draw(){
         cout << "drawing" << endl;
         img.draw(0, 0);
     }
+    
+    mainOutputSyphonServer.publishScreen();
     
 }
 

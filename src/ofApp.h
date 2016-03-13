@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxSimpleHttp.h"
+#include "ofxSyphon.h"
 
 #define OUTPUT_DIRECTORY "tempDownloads"
 
@@ -20,6 +21,8 @@ public:
     
     void newResponse(ofxSimpleHttpResponse &response);
     
+    
+    ofxSyphonServer mainOutputSyphonServer;
     ofxSimpleHttp http;
     ofImage img;
     vector<string> downloadList;

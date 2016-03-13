@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4048C4075F7E46E5070017B6A685B309F959FF3F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3C67F2CBD17FAA7A06339F7F1E2B09D2F682898E" : 0,
+    "190A6DAC5F84350B060F8F23AC857E9E464D008B" : 0,
+    "F4CCB893AFADB97238A965FD2F28717F1CAAE613" : 0,
+    "4048C4075F7E46E5070017B6A685B309F959FF3F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E22C2A5-BD27-4F3A-A13E-55011350945A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3C67F2CBD17FAA7A06339F7F1E2B09D2F682898E" : "..\/..\/..\/..\/Applications\/of_v0.9.3_osx_release\/addons\/ofxSocketIO",
+    "190A6DAC5F84350B060F8F23AC857E9E464D008B" : "..\/..\/..\/..\/Applications\/of_v0.9.3_osx_release\/addons\/ofxSimpleHttp",
+    "F4CCB893AFADB97238A965FD2F28717F1CAAE613" : "mySketch2\/ofxSyphon\/",
+    "4048C4075F7E46E5070017B6A685B309F959FF3F" : "mySketch2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mySketch2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mySketch2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/armadillu\/ofxSimpleHttp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "190A6DAC5F84350B060F8F23AC857E9E464D008B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/soixantecircuits\/ofxSocketIO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C67F2CBD17FAA7A06339F7F1E2B09D2F682898E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Team-Tentickles\/OpenFrameworksTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4048C4075F7E46E5070017B6A685B309F959FF3F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/astellato\/ofxSyphon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4CCB893AFADB97238A965FD2F28717F1CAAE613"
+    }
+  ]
+}
